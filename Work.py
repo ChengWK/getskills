@@ -28,6 +28,7 @@ for i in range(10):
         print('Please input task.')
 			
 print('worker exit')
+print('sucessed')
 			
 
 	
