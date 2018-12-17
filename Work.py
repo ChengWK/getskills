@@ -28,7 +28,11 @@ for i in range(10):
         print('Please input task.')
 			
 print('worker exit')
+<<<<<<< HEAD
 print('sucessed')
 			
 
 	
+=======
+print('next')
+>>>>>>> a8668740c26a6cff274e0842156f85b4fcd7a38e
